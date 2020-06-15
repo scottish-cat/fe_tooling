@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'MyFont';
+    src:  url('./my-font.woff') format('woff');
+    font-style: normal;
+}
+    
+.hello {
+    font-family: 'MyFont';
+    font-size: 25px;
+    color: burlywood;
+}
