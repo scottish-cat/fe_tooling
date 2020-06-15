@@ -43,6 +43,7 @@
     "eslint-plugin-import": "^2.21.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-prettier": "^3.1.4",
+    "postcss-normalize": "^9.0.0",
     "prettier": "^2.0.5",
     "typescript": "^3.9.5"
   }
